@@ -1,0 +1,17 @@
+.autodater tr {
+border-bottom:20px solid rgba(0,0,0,0);
+}
+.autodater span {
+font-weight:bolder;
+color:green;
+}
+.autodater th {
+font-weight:bolder;
+border-bottom:1px solid #f2f2f2;
+}
+.autodater th,.autodater td {
+padding-left:10px;
+line-height:35px;
+font-size:17px;
+background-color:#ffffff;
+}
